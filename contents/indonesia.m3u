@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_ID.xml"
 
 <!---[ INDONESIA ]--->
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="411980" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=411980", Indosiarᴴᴰ 
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="411980" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=411980", Indosiar ᴴᴰ 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
