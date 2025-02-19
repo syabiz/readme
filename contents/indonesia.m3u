@@ -1,29 +1,29 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_ID.xml"
 
 <!---[ INDONESIA ]--->
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="411980" tvg-name="Indosiar 🇭🇩" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=411980", Indosiar 🇭🇩 
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="411980" tvg-name="Indosiarᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=411980", Indosiarᴴᴰ 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="411917" tvg-name="SCTV 🇭🇩" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/sctv-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=411917", SCTV 🇭🇩
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="411917" tvg-name="SCTVᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/sctv-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=411917", SCTVᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="172012" tvg-name="ANTV 🇭🇩" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/antv-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=172012", ANTV 🇭🇩
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="172012" tvg-name="ANTVᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/antv-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=172012", ANTVᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="171909" tvg-name="RCTI 🇭🇩" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/rcti-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=171909", RCTI 🇭🇩
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="171909" tvg-name="RCTIᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/rcti-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=171909", RCTIᴴᴰ
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="171947" tvg-name="GTV 🇭🇩" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/gtv-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=171947", GTV 🇭🇩
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="171947" tvg-name="GTVᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/gtv-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=171947", GTVᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUIS5LQT8YZgnPqTIUeC3Ma8/ts
@@ -32,7 +32,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="171936" tvg-name="iNews 🇭🇩" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/inews-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=171936", iNews 🇭🇩
+#EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="171936" tvg-name="iNewsᴴᴰ" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/inews-id.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=171936", iNewsᴴᴰ
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
