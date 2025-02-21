@@ -1,5 +1,6 @@
 #EXTM3U tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml"
 
+<!---------- 🇮🇩 INDONESIA ---------->
 #EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/indosiar-id.png", INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
@@ -100,3 +101,119 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 
 #EXTINF:-1 group-title="🇮🇩 INDONESIA" tvg-id="BeritaSatu.id" tvg-name="BERITA SATU" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/berita-satu-id.png", BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="PadangTV.id" tvg-name="Padang TV" tgv-url="https://padangtv.id/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/padang-tv-id.png", Padang TV
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="TVTabalong.id" tvg-name="TV Tabalong" tgv-url="https://tvtabalong.com/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/tabalong-tv-id.png", TV Tabalong
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="SaktiTV.id" tvg-name="SAKTI TV" tgv-url="https://www.sakti.tv/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/sakti-tv-id.png", Sakti TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="MaduTV.id" tvg-name="Madu TV" tgv-url="https://madu.tv/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/madu-tv-id.png", Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BatamTV.id" tvg-name="Batam TV" tgv-url="https://batamtv.com/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/batam-tv-id.png", Batam TV
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BaliTV.id" tvg-name="Bali TV" tgv-url="https://batamtv.com/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/bali-tv-id.png", Bali TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="JakTV.id" tvg-name="Jak TV" tgv-url="https://jak-tv.com/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jaktv-id.png", Jak TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="JekTV.id" tvg-name="JEK TV" tgv-url="http://jektv.co.id/"  tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jek-tv-id.png", JEK TV
+https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="TVKUSemarang.id" tvg-name="TVKU Semarang" tgv-url="https://tvku.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/tvku-id.png", TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="JogjaTV.id" tvg-name="Jogja TV" tgv-url="https://jogjatv.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jogja-tv-id.png", Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="JITVJogjaTV.id" tvg-name="JITV Jogja TV" tgv-url="https://jitv.jogjaprov.go.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jitv-id.png", JITV Jogja
+http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BandungTV.id" tvg-name="Bandung TV" tgv-url="https://www.bandungtv.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/bandung-tv-id.png", Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="PrimaTV.id" tvg-name="Prima TV" tgv-url="https://x.com/primatv_bjm" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/prima-tv-id.png", Prima tv
+https://primatv.siar.us/primatv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="UGTV.id" tvg-name="UGTV" tgv-url="https://ugtv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/ug-tv-id.png", UGTV 
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="RadarCirebon.id" tvg-name="UGTV" tgv-url="https://www.radarcirebon.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/radar-cirebon-tv-id.png", Radar Cirebon TV
+https://v10.siar.us/rctv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="SMTV.id" tvg-name="SMTV" tgv-url="https://smtv.digital/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/sm-tv-id.png", SMTV
+#http://122.248.43.138:1935/ch25/myStream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="JawaposTV.id" tvg-name="Jawapos TV" tgv-url="https://www.youtube.com/@jawapostelevisi" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jawa-pos-multimedia-id.png", Jawapos TV
+https://jawapostv.siar.us/jawapostv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="MGSTV.id" tvg-name="MGS TV" tgv-url="https://mgstv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/mgstv-id.png", MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BalikPapanTV.id" tvg-name="Balikpapan TV" tgv-url="https://balikpapantv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/balikpapan-tv-id.png", Balikpapan TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BantenTV.id" tvg-name="Banten TV" tgv-url="https://bantentv.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/banten-tv-id.png", Banten TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="JambiTV.id" tvg-name="Jambi TV" tgv-url="https://jambitv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/jambi-tv-id.png", Jambi TV
+#http://122.248.43.138:1935/ch23/myStream/live.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="PALTV.id" tvg-name="PAL TV" tgv-url="https://paltv.disway.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/pal-tv-id.png", PALTV
+#https://v3.siar.us/paltv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="RadarTV.id" tvg-name="Radar TV" tgv-url="https://radartv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/radar-lampung-tv-id.png", Radar TV
+#http://122.248.43.138:1935/ch17/myStream/chunklist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BatuTV.id" tvg-name="Batu TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/batu-tv-id.png", Batu TV
+#http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BanjarTV.id" tvg-name="Banjar TV" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/banjar-tv-id.png", Banjar TV
+#https://v2.siar.us/banjartv/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="KaltaraTV.id" tvg-name="Kaltara TV" tgv-url="https://kaltaratv.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/kaltara-tv-id.png", Kaltara TV
+#https://wms.klikhost.net/kaltaratv/kaltaratv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="pktv.id" tvg-name="pktv" tgv-url="https://pktvkaltim.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/pktv-id.png", pktv
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="RadarTasikTV.id" tvg-name="Radar Tasik TV" tgv-url="https://radartasiktv.disway.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/radar-tv-tasikmalaya-id.png", Radar Tasik TV
+https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="TegarTVLampung.id" tvg-name="Tegar TV Lampung" tgv-url="" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/tegar-tv-id.png", Tegar TV lampung
+#http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="PujaTV.id" tvg-name="Puja TV" tgv-url="https://pujatvaceh.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/puja-tv-id.png", Puja TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="SangajiTV.id" tvg-name="Sangaji TV" tgv-url="https://sangajitv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/sangaji-tv-id.png" group-title="🎭 DAERAH", Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="DhammaTV.id" tvg-name="Dhamma TV" tgv-url="https://dhammaweb.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/dhamma-tv-id.png", Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" tgv-url="https://kstv.co.id/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/kilisuci-tv-id.png", Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="LingkarTV.id" tvg-name="Lingkar TV" tgv-url="https://lingkartv.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/lingkar-tv-id.png", Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="BungoTV.id" tvg-name="Bungo TV" tgv-url="https://www.bungotv.com/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/bungo-tv-id.png", Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+
+#EXTINF:-1 group-title="🎭 DAERAH" tvg-id="KawanuaTV.id" tvg-name="Kawanua TV" tgv-url="https://kawanua.tv/" tvg-logo="https://raw.githubusercontent.com/syabiz/syabiztv/refs/heads/main/tvg-logo/country/indonesia/daerah/kawanua-tv-id.png", Kawanua TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/playlist.m3u8
+
